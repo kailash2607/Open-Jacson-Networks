@@ -22,7 +22,6 @@ Visual components and Python
 
 ![image](https://github.com/Priyanghaofficial/Open-Jacson-Networks/assets/147121154/f6849599-f9ef-4b47-862e-cc9189d44d14)
 
-![image](https://github.com/Priyanghaofficial/Open-Jacson-Networks/assets/147121154/7325356b-4270-4d36-9e2e-d86dfcaa4dfd)
 
 ## Program
 ```
