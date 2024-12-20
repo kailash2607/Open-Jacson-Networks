@@ -1,4 +1,4 @@
-# Series Queues with infinite capacity - Open Jackson Network
+# EXP NO:6:Series Queues with infinite capacity - Open Jackson Network
 
 # Date : 14/12/2024
 
